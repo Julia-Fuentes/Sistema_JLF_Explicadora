@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+.logo {
+    font-size: 2rem;
+    font-family: 'Kaushan Script', cursive;
+    color: black;
+}
+
+body{
+    background: url('../images/educ3.jpg') fixed no-repeat;
+    color: black;
+    text-align: center;
+}
+
+.table-bg{
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 15px 15px 0 0;
+}
+
+.box-search{
+    display: flex;
+    justify-content: center;
+    gap: .1%;
+}
